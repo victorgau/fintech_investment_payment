@@ -16,6 +16,7 @@
 RegTech:
 
 * [什麼是監管科技(RegTech)？](https://www.inside.com.tw/article/7029-what-is-regtech)
+* [【財經知識庫】金融監理沙盒 加速金融發展](https://www.youtube.com/watch?v=40il8F14VVA)
 
 新興支付系統：
 
