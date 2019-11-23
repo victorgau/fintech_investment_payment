@@ -33,6 +33,7 @@ Blockchain
 * [臉書發行虛擬加密貨幣Libra對全球金融市場的影響](https://www.bankchb.com/chb_2a_resource/leap_do/gallery/1570093382019/68-9-%E5%B0%88%E9%A1%8C%E8%AD%AF%E8%BF%B0.pdf)
 * [A Bloomberg TV Host Gifted Bitcoin On Air And It Immediately Got Stolen](https://www.businessinsider.com/bloomberg-matt-miller-bitcoin-gift-stolen-2013-12)
 * [AI帶來極權，區塊鏈帶來民主](https://www.cw.com.tw/article/article.action?id=5092580)
+* [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 
 智能投資：
 
