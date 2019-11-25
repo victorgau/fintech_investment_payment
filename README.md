@@ -2,16 +2,30 @@
 
 這個分享主要是簡介了金融科技的支付及投資這兩個部分的議題。
 
-金融科技：
+Python 相關：
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victorgau/fintech_investment_payment/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/fintech_investment_payment/)
+
+* [基礎概念](http://bit.ly/2Xkl9IG)
+* [Python簡介](http://bit.ly/2NNVswV)
+* [Python變數及資料型態](http://bit.ly/2ps9US0)
+* [Python基本語法](http://bit.ly/34pdlri)
+
+金融現狀：
 
 * [「證券營業員的一天」](https://www.youtube.com/watch?v=QhfXQRQHRgQ)
 * [「銀行員的一天」](https://www.youtube.com/watch?v=N9kY6YAEuIk)
 * [「理財規劃顧問的一天」](https://www.youtube.com/watch?v=aur-z_6sYyE)
+
+金融科技：
+
 * [The Future of Financial Services](http://www3.weforum.org/docs/WEF_The_future__of_financial_services.pdf)
 * [世界經濟論壇－未來的金融服務](https://www.stockfeel.com.tw/2015%E5%B9%B4%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F%E8%AB%96%E5%A3%87%EF%BC%8D%E6%9C%AA%E4%BE%86%E7%9A%84%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8B%99/)
 * [金融科技發展策略白皮書](http://www.tfsr.org.tw/Uploads/files/1050518%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%99%BC%E5%B1%95%E7%AD%96%E7%95%A5%E7%99%BD%E7%9A%AE%E6%9B%B8.pdf)
 * [【金融小知識－金融科技】Bank4.0](https://www.youtube.com/watch?v=ddYeYnfMtuA)
 * [【StockFeel 股感，來自生活 X 第一金投信】當金融遇上科技，FinTech開拓投資新視野](https://www.youtube.com/watch?v=j8le136cNKs)
+* [交易員惡夢成真　150年投資銀行500人變3人](https://tw.appledaily.com/new/realtime/20180501/1344942/)
 
 RegTech:
 
@@ -46,10 +60,15 @@ Blockchain
 * [AI in Finance - Notebook](https://hilpisch.com/pycontw.html)
 * [MOPCON 2019 - 韓承佑博士 影片](https://www.youtube.com/watch?v=v7MgZLIc-ds)
 * [MOPCON 2019 - 韓承佑博士 投影片](https://www.finlab.tw/slide_mopcon.pdf)
-* [中華民國證券投資信託暨顧問商業同業公會證券投資顧問事業以自動化工具提供證券投資顧問服務（Robo-Advisor）作業要點](http://www.selaw.com.tw/LawContent.aspx?LawID=G0103923)
+* [Robo-Advisor作業要點](http://www.selaw.com.tw/LawContent.aspx?LawID=G0103923)
 * [自動化投資顧問(Robo-Advisor)相關規範](http://www.fsc.gov.tw/fckdowndoc?file=/01-1-5-13-%E5%B0%88%E9%A1%8C%E4%B8%80-%E8%87%AA%E5%8B%95%E5%8C%96%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F(Robo%20Advisor)%E7%9B%B8%E9%97%9C%E8%A6%8F%E7%AF%84.pdf&flag=doc)
 * [AI 機器人害我投資賠錢，我能告他嗎？](https://www.techbang.com/posts/70447-ai-robot-made-me-invest-money-can-i-sue-him?fbclid=IwAR23GX9G22Qp_KamXzwJ6opEWl94DeHOmZhFdsY72WP2XDdY5i_1gH66yN0)
 * [什麼是逐筆交易 ? 一篇帶你搞懂《 集合競價 vs 逐筆交易 》](https://nico-invest.com/2019/04/04/onebyone/)
 * [〈財經週報-台股新制〉明年新焦點 逐筆交易最熱門](https://ec.ltn.com.tw/article/paper/1310044)
 * [理財機器人的挑戰才剛開始](https://money.udn.com/money/story/5629/3617962)
 * [【圖解ETF】華爾街操盤人被打敗了 人工智慧ETF表現好犀利](https://tw.news.yahoo.com/%E5%9C%96%E8%A7%A3etf-%E8%8F%AF%E7%88%BE%E8%A1%97%E6%93%8D%E7%9B%A4%E4%BA%BA%E8%A2%AB%E6%89%93%E6%95%97%E4%BA%86-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7etf%E8%A1%A8%E7%8F%BE%E5%A5%BD%E7%8A%80%E5%88%A9-230000446.html)
+
+其他參考資料
+
+* 李宜熹教授, FinTech發展趨勢 (投影片)
+* 
