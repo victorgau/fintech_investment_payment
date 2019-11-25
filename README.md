@@ -50,6 +50,7 @@ Blockchain
 * [臉書發行虛擬加密貨幣Libra對全球金融市場的影響](https://www.bankchb.com/chb_2a_resource/leap_do/gallery/1570093382019/68-9-%E5%B0%88%E9%A1%8C%E8%AD%AF%E8%BF%B0.pdf)
 * [A Bloomberg TV Host Gifted Bitcoin On Air And It Immediately Got Stolen](https://www.businessinsider.com/bloomberg-matt-miller-bitcoin-gift-stolen-2013-12)
 * [AI帶來極權，區塊鏈帶來民主](https://www.cw.com.tw/article/article.action?id=5092580)
+* [Ethereum Flash Crash](https://www.cnbc.com/2017/06/22/ethereum-price-crash-10-cents-gdax-exchange-after-multimillion-dollar-trade.html)
 * [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 * [The Pit - Blockchain Explorer](https://www.blockchain.com/explorer)
 * [壞礦工的雙重支付攻擊，51%攻擊](https://www.bitcoin-info.guide/%E5%85%A5%E9%96%80%E6%8C%87%E5%BC%95/%E6%AF%94%E7%89%B9%E5%B9%A3%E9%81%8B%E4%BD%9C%E5%8E%9F%E7%90%86/%E9%9B%99%E9%87%8D%E6%94%AF%E4%BB%98%E6%94%BB%E6%93%8A)
