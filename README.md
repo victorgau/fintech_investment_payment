@@ -26,6 +26,7 @@ Python 相關：
 * [【金融小知識－金融科技】Bank4.0](https://www.youtube.com/watch?v=ddYeYnfMtuA)
 * [【StockFeel 股感，來自生活 X 第一金投信】當金融遇上科技，FinTech開拓投資新視野](https://www.youtube.com/watch?v=j8le136cNKs)
 * [交易員惡夢成真　150年投資銀行500人變3人](https://tw.appledaily.com/new/realtime/20180501/1344942/)
+* [誰說FinTech很無聊？直擊台北金融科技展10大亮點](https://www.gvm.com.tw/article/69735)
 
 RegTech:
 
@@ -40,6 +41,15 @@ RegTech:
 * [How Zelle Works?](https://www.youtube.com/watch?v=IDZa1wRsCYM)
 * [Venmo: Pay, Split and Share on Mobile Web (HD)](https://www.youtube.com/watch?v=6kSk9sc6NTQ)
 * [PayPal vs Venmo vs Zelle](https://zipbooks.com/blog/paypal-vs-venmo-vs-zelle/)
+
+人工智慧(AI)
+
+* [人工智慧史](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%B2)
+* [完整解析AI人工智慧：3大浪潮＋3大技術＋3大應用｜大和有話說](https://dahetalk.com/2018/04/08/%E5%AE%8C%E6%95%B4%E8%A7%A3%E6%9E%90ai%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%EF%BC%9A3%E5%A4%A7%E6%B5%AA%E6%BD%AE%EF%BC%8B3%E5%A4%A7%E6%8A%80%E8%A1%93%EF%BC%8B3%E5%A4%A7%E6%87%89%E7%94%A8%EF%BD%9C/)
+* [會打電話的 AI 背後：Google Duplex 技術解析](http://technews.tw/2018/05/10/google-duplex-an-ai-system-for-accomplishing-real-world-tasks-over-the-phone/)
+* [Google Duplex A.I. - How Does it Work?](https://www.youtube.com/watch?v=IuIpgArEZig)
+* [A quarter of Google Duplex calls are actually placed by humans](https://www.theverge.com/2019/5/22/18636138/google-duplex-human-callers-25-percent-ai-restaurant-booking)
+
 
 Blockchain
 
@@ -72,4 +82,3 @@ Blockchain
 其他參考資料
 
 * 李宜熹教授, FinTech發展趨勢 (投影片)
-* 
